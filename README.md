@@ -1,4 +1,5 @@
-A React.js-based Kanban Board that dynamically organizes tasks based on user preferences. This project was developed for a frontend assignment, adhering to strict UI guidelines and business logic requirements.
+This is a simple and interactive Kanban Board built using React.js for the frontend. The application allows users to manage tasks efficiently by grouping and sorting them dynamically.
+The Kanban Board fetches data from an external API and provides a visually organized interface.
 
 **Display:**
 
